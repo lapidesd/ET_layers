@@ -12,6 +12,8 @@ This repository contains:
   * ElderPML.csv: csv file containing ET data from the gridded dataset PML-V2 (Gan et al., 2018; Zhang et al., 2019; Zhang et al., 2016)
   * Elder_streamflow.txt: USGS streamflow data for Elder Creek gage number 11475560 queried
   * Sapflow.csv: Sapflow data from trees at Elder Creek, previously published by Bilir et al. (2021)
+  * SNorth.csv: Soil moisture data for north slope of Elder Creek site, where VMS is located
+  * SSouth.csv: Soil moisture data for south slope of Elder Creek site
   * angelo_weather_1H.csv: weather data for the Elder Creek area at Angelo Preserve
   * pet_data_frompete.csv: PET data for Elder Creek, mislabeled as Air Temp in file
  
