@@ -1,5 +1,7 @@
 # Supporting data and code for "Root water uptake resolved by distributed storage changes through soil and weathered bedrock"
 
+[![DOI](https://zenodo.org/badge/753748865.svg)](https://zenodo.org/doi/10.5281/zenodo.12537869)
+
 This repository contains:
 
 * Code:
