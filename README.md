@@ -6,6 +6,8 @@ This repository contains:
 
 * Code:
   * massbal_etlayers_tdt.ipynb: a jupyter notebook to generate a background data figure for the study site, Elder Creek, CA
+  * pyhydrus_manysites_explore.ipynb: a jupyter notebook that explores HYDRUS simulations run in pyhydrus_manysites_run.ipynb across 9 climate type locations
+  * pyhydrus_manysites_run.ipynb: a jupyter notebook that runs HYDRUS simulations at 9 climate type locations across the Conterminous US and downloads the data for exploration in pyhydrus_manysites_explore.ipynb
   * pyhydrus_VMS_final.ipynb: a jupyter notebook that runs a HYDRUS simulation at Elder Creek and evaluates performance of 3 mass balance-based methods for calculating depth-distributed ET and drainage fluxes
   * separate_fluxes-final-github.ipynb: a jupyter notebook that runs the best mass balance method (Method 3, minimum drainage method) on data from the vadose zone monitoring system (VMS) at Elder Creek, CA and explores the results
 * Data:
