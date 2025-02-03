@@ -17,7 +17,7 @@ This repository contains:
   * SNorth.csv: Soil moisture data for north slope of Elder Creek site, where VMS is located
   * SSouth.csv: Soil moisture data for south slope of Elder Creek site
   * angelo_weather_1H.csv: weather data for the Elder Creek area at Angelo Preserve
-  * pet_data_frompete.csv: PET data for Elder Creek, mislabeled as Air Temp in file
+  * pet_data_hargreaves.csv: PET data for Elder Creek, mislabeled as Air Temp in file, calculated using the Hargreaves formula
  
 References:
 
