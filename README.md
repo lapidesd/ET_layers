@@ -7,7 +7,7 @@ This repository contains:
 * Code:
   * massbal_etlayers_tdt.ipynb: a jupyter notebook to generate a background data figure for the study site, Elder Creek, CA
   * pyhydrus_VMS_final.ipynb: a jupyter notebook that runs a HYDRUS simulation at Elder Creek and evaluates performance of 3 mass balance-based methods for calculating depth-distributed ET and drainage fluxes
-  * separate_fluxes-final.ipynb: a jupyter notebook that runs the best mass balance method (Method 3, minimum drainage method) on data from the vadose zone monitoring system (VMS) at Elder Creek, CA and explores the results
+  * separate_fluxes-final-github.ipynb: a jupyter notebook that runs the best mass balance method (Method 3, minimum drainage method) on data from the vadose zone monitoring system (VMS) at Elder Creek, CA and explores the results
 * Data:
   * tdt: directory containing tdt data for each layer A1-A10. Raw data are stored in the column titled Vms_Rock_Moisture_A1
   * data_for_datafig.csv: csv file containing data needed for data figure in massbal_etlayers_tdt.ipynb. Columns A1-A9 are tdt data from VMS, Rivendell_WY_Rain_mm is rainfall, well_10_adjust and well_07_adjust are well data, and PET_mmd is PET
