@@ -12,6 +12,7 @@ This repository contains:
   * separate_fluxes-final-github.ipynb: a jupyter notebook that runs the best mass balance method (Method 3, minimum drainage method) on data from the vadose zone monitoring system (VMS) at Elder Creek, CA and explores the results
 * Data:
   * tdt: directory containing tdt data for each layer A1-A10. Raw data are stored in the column titled Vms_Rock_Moisture_A1
+  * alldata_small_#CLIMATE TYPE#.csv: set of files with HYDRUS outputs by node (every 25 cm deep from ground surface down) and time (in days since 1-1-2016). Flux is drainage at the node depth. Moisture is water content, and Sink is the ET term.
   * etdata_#CLIMATE TYPE#.csv: set of files with ET data from HYDRUS slimulations for each climate type. Time is time in days since 1-1-2016. vRoot is ET from HYDRUS over the full column in cm.
   * petdata_#CLIMATE TYPE#.csv: set of files with ET data from gridMET (Abatzoglou, 2013) for each climate type. Time is time in days since 1-1-2016, and PET is ET from gridMET in cm.
   * raindata_#CLIMATE TYPE#.csv: set of files with precipitation data from gridMET (Abatzoglou, 2013) for each climate type. Timestamp is the date. Time is the time in days since 1-1-2016. Prec is the precipitation from gridMET in cm.
